@@ -5,3 +5,7 @@ I will try to be here everyday, trying to work on new projects until I get to pe
 # Changes
 I will make changes on this README as I take on this journey.
 I would be looking for new projects as I get better. 
+
+# Coding Style
+All programs will be written with Betty coding style and must be checked before compiling.
+
